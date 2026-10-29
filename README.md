@@ -36,7 +36,7 @@ GitHub can't show Excel files in the browser, so please download the `.xlsx` to 
 
 ## Screenshots
 
-![Journal](screenshots/03-general-journal.png)
+![Journal](03-general-journal.png)
 ![Trial balance](screenshots/06-trial-balance.png)
 ![Income statement](screenshots/07-income-statement.png)
 ![Balance sheet](screenshots/08-balance-sheet.png)
