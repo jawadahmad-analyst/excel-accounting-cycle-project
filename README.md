@@ -64,4 +64,4 @@ More in the `screenshots` folder.
 - Add more months of transactions
 
 ---
-Jawad Ahmad | BBA Finance, CUSIT Peshawar
+Project by [Jawad Ahmad](https://www.linkedin.com/in/jawad-analyst)| BBA Finance, CUSIT Peshawar
